@@ -1,0 +1,18 @@
+Name of Quantlet : CRIXminimumVariance
+
+Published in : Portfolio Optimization with crypto-currencies
+
+Description : 'Cumulative return with the Naive Strategy and SP500 core'
+
+Keywords : tedas, Minimum Variance, portfolio, optimization, cryptocurrency, return
+
+Author : SIVAGOUROU
+
+Submitted : 2018/05/19
+
+Datafile :
+- cryptos data
+- SP500 core
+
+Output :
+- Plotly (D3.js and Java Script) Plot of the cumulated return of the Minimum Variance strategy and core wealth.
