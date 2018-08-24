@@ -1,5 +1,23 @@
-library(plotly)
+# clear all variables
+rm(list = ls(all = TRUE))
+graphics.off()
 
+# install and load packages
+libraries = c("FRAPO", "quantreg", "plotly")
+lapply(libraries, function(x) if (!(x %in% installed.packages())) {
+  install.packages(x)
+})
+lapply(libraries, library, quietly = TRUE, character.only = TRUE)
+
+##### Make sure to have run all the files corresponding to all strategies function
+##### The functions could be found in their respective folder in CRIX_tedas quanlet
+
+
+##### Initial Parameters
+tau=c(0.05, 0.15, 0.25, 0.35, 0.50)  ### <-- Default tau used in all calculus in Master thesis
+
+
+#### Grid search Function
 optimal_window = function(data_cryptos,windowLength,optimisation_method,core,tau){
   
   a = matrix(rep(0,5),ncol = 5)
