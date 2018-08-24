@@ -1,0 +1,24 @@
+Name of Quantlet : CRIXtedasCorrelationCoreCryptos
+
+Published in : Portfolio Optimization with crypto-currencies
+
+Description : 'correlation of Core agains cryptos'
+
+Keywords : tedas, correlation, portfolio, cryptos, cryptocurrency
+
+Author : SIVAGOUROU
+
+Submitted : 2018/08/24
+
+Datafile :
+- cryptos data
+- core : SP500, FTSE100, NASDAQ, DAX30, NIKKEI225 
+
+Output :
+- Plot of correlation of Core agains cryptos.
+In the following order :
+- SP500
+- FTSE100
+- NASDAQ
+- DAX30
+- NIKKEI225
