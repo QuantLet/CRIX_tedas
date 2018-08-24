@@ -1,0 +1,18 @@
+Name of Quantlet : CRIXvolumeWeighted
+
+Published in : Portfolio Optimization with crypto-currencies
+
+Description : 'Cumulative return ofthe Volume weighted Strategy and SP500 core with a window length of 100 days'
+
+Keywords : tedas, Volume weighted, portfolio, optimization, cryptocurrency, return
+
+Author : SIVAGOUROU
+
+Submitted : 2018/08/24
+
+Datafile :
+- cryptos data
+- SP500 core
+
+Output :
+- Plot of the cumulated return of the Volume weighted and core wealth.
