@@ -2,7 +2,7 @@ Name of Quantlet : CRIXportfolioStrategies
 
 Published in : Portfolio Optimization with crypto-currencies
 
-Description : 'Cumulative return of the different strategies and the core'
+Description : 'Cumulative return of the different strategies and the core for a window length of 100 days'
 
 Keywords : tedas, naive, hybrid, minimum variance, erc, cryptocurrency,
 
