@@ -1,0 +1,23 @@
+Name of Quantlet : CRIXtedasWindowlengthGrid
+
+Published in : Portfolio Optimization with crypto-currencies
+
+Description : 'Negative excess return frequency with respect to window length for SP500 core'
+
+Keywords : tedas, hybrid, portfolio, optimization, strategy, window length, grid
+
+Author : SIVAGOUROU
+
+Submitted : 2018/08/24
+
+Datafile :
+- cryptos data
+- SP500 core
+
+Output :
+- Plot of the Negative excess return frequency with respect to window length for SP500 core.
+In the following order :
+- Naive Strategy
+- Hybrid Strategy
+- Equally Risk Weighted Strategy
+- Minimum Variance Strategy
