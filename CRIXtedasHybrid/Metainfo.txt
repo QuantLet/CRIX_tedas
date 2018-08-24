@@ -1,0 +1,18 @@
+Name of Quantlet : CRIXtedasHybrid
+
+Published in : Portfolio Optimization with crypto-currencies
+
+Description : 'Cumulative return of the Hybrid Strategy and SP500 core'
+
+Keywords : tedas, Hybrid, portfolio, optimization, cryptocurrency, return
+
+Author : SIVAGOUROU
+
+Submitted : 2018/08/24
+
+Datafile :
+- cryptos data
+- SP500 core
+
+Output :
+- Plot of the cumulated return of the Hybrid strategy and core wealth.
