@@ -1,0 +1,18 @@
+Name of Quantlet : CRIXtedasNaive
+
+Published in : Portfolio Optimization with crypto-currencies
+
+Description : 'Cumulative return ofthe Naive Strategy and SP500 core'
+
+Keywords : tedas, Naive, portfolio, optimization, cryptocurrency, return
+
+Author : SIVAGOUROU
+
+Submitted : 2018/08/24
+
+Datafile :
+- cryptos data
+- SP500 core
+
+Output :
+- Plot of the cumulated return of the Naive strategy and core wealth.
