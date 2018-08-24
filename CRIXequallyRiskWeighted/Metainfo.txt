@@ -1,0 +1,18 @@
+Name of Quantlet : CRIXequallyRiskWeighted
+
+Published in : Portfolio Optimization with crypto-currencies
+
+Description : 'Cumulative return with the equally risk weighted strategy and SP500 core'
+
+Keywords : tedas, ERC, risk weighted, portfolio, optimization, cryptocurrency, return
+
+Author : SIVAGOUROU
+
+Submitted : 2018/08/24
+
+Datafile :
+- cryptos data
+- SP500 core
+
+Output :
+- Plot of the cumulated return of the ERC strategy and core wealth.
