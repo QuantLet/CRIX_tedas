@@ -274,23 +274,23 @@ Wealth_NAIVE_Backtest = TEDAS_NAIVE_Backtest(data_cryptos,optimal_window_length,
 Wealth_NAIVE_Backtest = TEDAS_NAIVE_Backtest(data_cryptos,optimal_window_length,401,DAX_30_PERFORMANCE[startPoint:length(DAX_30_PERFORMANCE)],tau)
 Wealth_NAIVE_Backtest = TEDAS_NAIVE_Backtest(data_cryptos,optimal_window_length,401,NIKKEI_225[startPoint:length(NIKKEI_225)],tau)
 
-Wealth_HYBRID_Backtest = TEDAS_HYBRID_Backtest(data_cryptos_84_sp500,optimal_window_length,401,SP500[startPoint:length(SP500)],tau)
-Wealth_HYBRID_Backtest = TEDAS_HYBRID_Backtest(data_cryptos_84_sp500,optimal_window_length,401,NASDAQ[startPoint:length(NASDAQ)],tau)
-Wealth_HYBRID_Backtest = TEDAS_HYBRID_Backtest(data_cryptos_84_sp500,optimal_window_length,401,FTSE100[startPoint:length(FTSE100)],tau)
-Wealth_HYBRID_Backtest = TEDAS_HYBRID_Backtest(data_cryptos_84_sp500,optimal_window_length,401,DAX_30_PERFORMANCE[startPoint:length(DAX_30_PERFORMANCE)],tau)
-Wealth_HYBRID_Backtest = TEDAS_HYBRID_Backtest(data_cryptos_84_sp500,optimal_window_length,401,NIKKEI_225[startPoint:length(NIKKEI_225)],tau)
+Wealth_HYBRID_Backtest = TEDAS_HYBRID_Backtest(data_cryptos,optimal_window_length,401,SP500[startPoint:length(SP500)],tau)
+Wealth_HYBRID_Backtest = TEDAS_HYBRID_Backtest(data_cryptos,optimal_window_length,401,NASDAQ[startPoint:length(NASDAQ)],tau)
+Wealth_HYBRID_Backtest = TEDAS_HYBRID_Backtest(data_cryptos,optimal_window_length,401,FTSE100[startPoint:length(FTSE100)],tau)
+Wealth_HYBRID_Backtest = TEDAS_HYBRID_Backtest(data_cryptos,optimal_window_length,401,DAX_30_PERFORMANCE[startPoint:length(DAX_30_PERFORMANCE)],tau)
+Wealth_HYBRID_Backtest = TEDAS_HYBRID_Backtest(data_cryptos,optimal_window_length,401,NIKKEI_225[startPoint:length(NIKKEI_225)],tau)
 
-Wealth_MV_Backtest = TEDAS_MV_Backtest(data_cryptos_84_sp500,optimal_window_length,401,SP500[startPoint:length(SP500)],tau)
-Wealth_MV_Backtest = TEDAS_MV_Backtest(data_cryptos_84_sp500,optimal_window_length,401,NASDAQ[startPoint:length(NASDAQ)],tau)
-Wealth_MV_Backtest = TEDAS_MV_Backtest(data_cryptos_84_sp500,optimal_window_length,401,FTSE100[startPoint:length(FTSE100)],tau)
-Wealth_MV_Backtest = TEDAS_MV_Backtest(data_cryptos_84_sp500,optimal_window_length,401,DAX_30_PERFORMANCE[startPoint:length(DAX_30_PERFORMANCE)],tau)
-Wealth_MV_Backtest = TEDAS_MV_Backtest(data_cryptos_84_sp500,optimal_window_length,401,NIKKEI_225[startPoint:length(NIKKEI_225)],tau)
+Wealth_MV_Backtest = TEDAS_MV_Backtest(data_cryptos,optimal_window_length,401,SP500[startPoint:length(SP500)],tau)
+Wealth_MV_Backtest = TEDAS_MV_Backtest(data_cryptos,optimal_window_length,401,NASDAQ[startPoint:length(NASDAQ)],tau)
+Wealth_MV_Backtest = TEDAS_MV_Backtest(data_cryptos,optimal_window_length,401,FTSE100[startPoint:length(FTSE100)],tau)
+Wealth_MV_Backtest = TEDAS_MV_Backtest(data_cryptos,optimal_window_length,401,DAX_30_PERFORMANCE[startPoint:length(DAX_30_PERFORMANCE)],tau)
+Wealth_MV_Backtest = TEDAS_MV_Backtest(data_cryptos,optimal_window_length,401,NIKKEI_225[startPoint:length(NIKKEI_225)],tau)
 
-Wealth_RISK_WEIGHTED_Backtest = RISK_WEIGHTED_Backtest(data_cryptos_84_sp500,optimal_window_length,401,SP500[startPoint:length(SP500)],tau)
-Wealth_RISK_WEIGHTED_Backtest = RISK_WEIGHTED_Backtest(data_cryptos_84_sp500,optimal_window_length,401,NASDAQ[startPoint:length(NASDAQ)],tau)
-Wealth_RISK_WEIGHTED_Backtest = RISK_WEIGHTED_Backtest(data_cryptos_84_sp500,optimal_window_length,401,FTSE100[startPoint:length(FTSE100)],tau)
-Wealth_RISK_WEIGHTED_Backtest = RISK_WEIGHTED_Backtest(data_cryptos_84_sp500,optimal_window_length,401,DAX_30_PERFORMANCE[startPoint:length(DAX_30_PERFORMANCE)],tau)
-Wealth_RISK_WEIGHTED_Backtest = RISK_WEIGHTED_Backtest(data_cryptos_84_sp500,optimal_window_length,401,NIKKEI_225[startPoint:length(NIKKEI_225)],tau)
+Wealth_RISK_WEIGHTED_Backtest = RISK_WEIGHTED_Backtest(data_cryptos,optimal_window_length,401,SP500[startPoint:length(SP500)],tau)
+Wealth_RISK_WEIGHTED_Backtest = RISK_WEIGHTED_Backtest(data_cryptos,optimal_window_length,401,NASDAQ[startPoint:length(NASDAQ)],tau)
+Wealth_RISK_WEIGHTED_Backtest = RISK_WEIGHTED_Backtest(data_cryptos,optimal_window_length,401,FTSE100[startPoint:length(FTSE100)],tau)
+Wealth_RISK_WEIGHTED_Backtest = RISK_WEIGHTED_Backtest(data_cryptos,optimal_window_length,401,DAX_30_PERFORMANCE[startPoint:length(DAX_30_PERFORMANCE)],tau)
+Wealth_RISK_WEIGHTED_Backtest = RISK_WEIGHTED_Backtest(data_cryptos,optimal_window_length,401,NIKKEI_225[startPoint:length(NIKKEI_225)],tau)
 
 #### Don't forget to change the core in the below code 
 
