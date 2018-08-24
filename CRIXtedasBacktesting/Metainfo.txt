@@ -1,0 +1,23 @@
+Name of Quantlet : CRIXtedasBacktesting
+
+Published in : Portfolio Optimization with crypto-currencies
+
+Description : 'Cumulative return of the different strategies and the core with their optimal window'
+
+Keywords : tedas, naive, hybrid, minimum variance, erc, cryptocurrency,
+
+Author : SIVAGOUROU
+
+Submitted : 2018/08/24
+
+Datafile :
+- cryptos data
+- core : SP500, FTSE100, NASDAQ, DAX30, NIKKEI225 
+
+Output :
+- Plot Cumulative return of the different strategies and the core with their optimal window.
+- SP500
+- FTSE100
+- NASDAQ
+- DAX30
+- NIKKEI225
