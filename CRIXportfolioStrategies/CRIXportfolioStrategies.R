@@ -3,16 +3,25 @@ rm(list = ls(all = TRUE))
 graphics.off()
 
 # install and load packages
-libraries = c("plotly")
+libraries = c("plotly","quantreg")
 lapply(libraries, function(x) if (!(x %in% installed.packages())) {
   install.packages(x)
 })
 lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 
-### Make sur also to run the files to get the different TEDAS Function
+
+##### Make sure to have run all the files corresponding to all strategies function
+##### The function could be found in their respective folder in CRIX_tedas quanlet
 
 ##### Initial Parameters
 tau=c(0.05, 0.15, 0.25, 0.35, 0.50)  ### <-- Default tau used in all calculus in Master thesis
+
+##### Tau spine function
+tau_spine=function(x,tau){
+  
+  return(min(tau[tau >= x]))
+  
+}
 
 
 ##### Cumulative return for the Core
@@ -83,7 +92,7 @@ remove(Wealth_NAIVE_NIKKEI_225,Wealth_HYBRID_MV_NIKKEI_225,Wealth_HYBRID_NIKKEI_
 
 
 
-#################### Metrics calculation
+
 ##### Change the wealth and the core wealth in the below function
 
 plot_ly(x = Core$date[window_length: length(Core$date)]) %>%

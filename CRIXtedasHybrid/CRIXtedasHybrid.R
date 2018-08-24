@@ -9,6 +9,11 @@ lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 ### Initial Parameters 
 tau=c(0.05, 0.15, 0.25, 0.35, 0.50) 
 
+### tau spine function
+tau_spine=function(x,tau){
+  return(min(tau[tau >= x]))
+}
+
 ### Function for plotting
 plot_wealth = function(strategy_wealth,core,strategy_string,core_string,date_range,windowLength){
   
