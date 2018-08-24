@@ -8,11 +8,11 @@ Keywords : tedas, Minimum Variance, portfolio, optimization, cryptocurrency, ret
 
 Author : SIVAGOUROU
 
-Submitted : 2018/05/19
+Submitted : 2018/08/24
 
 Datafile :
 - cryptos data
 - SP500 core
 
 Output :
-- Plotly (D3.js and Java Script) Plot of the cumulated return of the Minimum Variance strategy and core wealth.
+- Plot of the cumulated return of the Minimum Variance strategy and core wealth.
