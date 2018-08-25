@@ -6,7 +6,7 @@ Description : 'Cumulative return with the equally risk weighted strategy and SP5
 
 Keywords : tedas, ERC, risk weighted, portfolio, optimization, cryptocurrency, return
 
-Author : SIVAGOUROU
+Author : SIVAGOUROU Dinesh
 
 Submitted : 2018/08/24
 
