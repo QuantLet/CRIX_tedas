@@ -6,7 +6,7 @@ Description : 'Cumulative return of the different strategies and the core with t
 
 Keywords : tedas, naive, hybrid, minimum variance, erc, cryptocurrency,
 
-Author : SIVAGOUROU
+Author : SIVAGOUROU Dinesh
 
 Submitted : 2018/08/24
 

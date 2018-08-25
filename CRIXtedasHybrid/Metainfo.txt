@@ -2,11 +2,11 @@ Name of Quantlet : CRIXtedasHybrid
 
 Published in : Portfolio Optimization with crypto-currencies
 
-Description : 'Cumulative return of the Hybrid Strategy and SP500 core'
+Description : 'Cumulative return of the Hybrid Strategy and SP500 core with a window of 100 days'
 
 Keywords : tedas, Hybrid, portfolio, optimization, cryptocurrency, return
 
-Author : SIVAGOUROU
+Author : SIVAGOUROU Dinesh
 
 Submitted : 2018/08/24
 

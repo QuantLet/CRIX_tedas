@@ -6,7 +6,7 @@ Description : 'Cumulative return ofthe Volume weighted Strategy and SP500 core w
 
 Keywords : tedas, Volume weighted, portfolio, optimization, cryptocurrency, return
 
-Author : SIVAGOUROU
+Author : SIVAGOUROU Dinesh
 
 Submitted : 2018/08/24
 

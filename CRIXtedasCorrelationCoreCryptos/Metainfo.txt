@@ -6,7 +6,7 @@ Description : 'Correlation of Core against cryptos'
 
 Keywords : tedas, correlation, portfolio, cryptos, cryptocurrency
 
-Author : SIVAGOUROU
+Author : SIVAGOUROU Dinesh
 
 Submitted : 2018/08/24
 
@@ -16,7 +16,6 @@ Datafile :
 
 Output :
 - Plot of correlation of Core agains cryptos.
-In the following order :
 - SP500
 - FTSE100
 - NASDAQ

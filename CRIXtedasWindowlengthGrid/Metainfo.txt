@@ -6,7 +6,7 @@ Description : 'Negative excess return frequency with respect to window length fo
 
 Keywords : tedas, hybrid, portfolio, optimization, strategy, window length, grid
 
-Author : SIVAGOUROU
+Author : SIVAGOUROU Dinesh
 
 Submitted : 2018/08/24
 
@@ -16,7 +16,6 @@ Datafile :
 
 Output :
 - Plot of the Negative excess return frequency with respect to window length for SP500 core.
-In the following order :
 - Naive Strategy
 - Hybrid Strategy
 - Equally Risk Weighted Strategy
