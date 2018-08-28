@@ -2,7 +2,7 @@ Name of Quantlet : CRIXcoreWealth
 
 Published in : Portfolio Optimization with crypto-currencies
 
-Description : 'Cumulative return of the different cores'
+Description : 'Cumulative return of the different cores with an initial investment of 1 dollar'
 
 Keywords : tedas, core, cumulative return, cryptocurrency,
 
