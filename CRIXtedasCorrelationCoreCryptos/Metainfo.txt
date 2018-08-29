@@ -2,7 +2,7 @@ Name of Quantlet : CRIXtedasCorrelationCoreCryptos
 
 Published in : Portfolio Optimization with crypto-currencies
 
-Description : 'Correlation of Core against cryptos'
+Description : 'Plots the Correlation of an index, here CORE, against crypto currencies'
 
 Keywords : tedas, correlation, portfolio, cryptos, cryptocurrency
 
